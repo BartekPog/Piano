@@ -1,0 +1,55 @@
+body{
+  background-color: #222831;
+  color: #eeeeee;
+  font-family: 'Montserrat', sans-serif;
+  text-align:center;
+}
+
+.container-fluid{
+  padding: 3% 15% 4%;
+}
+
+
+/* WYBÓR FUNKCJI */
+.buton{
+  color: #ddd;
+}
+.buton:hover{
+  font-weight:400;
+}
+.aktywny{
+  background-color: #00adb5;
+  color:#fff;
+}
+.aktywny:hover{
+  background-color: #00adb5;
+}
+
+
+/* KLAWISZE */
+
+.klawisz{
+  font-size:2rem;
+  padding:2.4%;
+}
+
+.czarny{
+  background-color:#393e46;
+}
+
+.bialy{
+  background-color:#eeeeee;
+  color:#393e46;
+}
+.akt{
+  background-color: #00adb5;
+  color:#fff;
+}
+
+/* STOPKA */
+.stopka{
+  color: #aaa;
+  font-size:1rem;
+  font-weight:200;
+  padding:3% 0 0;
+}
